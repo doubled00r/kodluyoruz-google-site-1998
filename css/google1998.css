@@ -1,0 +1,54 @@
+.google-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Tüm Kartların ortak özelliklerini tanımladığımız yer */
+.card{
+    text-align: center;
+    width: 100%;
+    float: left;
+    height: 100px;
+}
+/* Bitiş Tüm Kartların ortak özelliklerini tanımladığımız yer */
+
+/* Kartların farklı özelliklerini tanımladığımız yer */
+.card-top {
+    padding: 5px ;
+    background-color: rgb(237, 231, 231);
+    text-align: center;
+  }
+
+.card-left{
+    background-color: aquamarine;
+    
+}
+.card-middle{
+    background-color: rgb(65, 147, 120); 
+}
+.card-right{
+    background-color: rgb(44, 227, 166); 
+    
+}
+/* Bitiş Kartların farklı özelliklerini tanımladığımız yer */
+
+ul{
+    list-style-type: none;
+}
+
+footer {
+    text-align: center;
+}
+
+/* Kartların hepsini birden ortalıyoruz */
+.container table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+/* Bitiş Kartların hepsini birden ortalıyoruz */
